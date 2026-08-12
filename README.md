@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kasshish Jain 👋
 
-<!--
-**kasshish00-jain/kasshish00-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science Engineering student
 
-Here are some ideas to get you started:
+💻 Interested in software development, data, and technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, SQL, and software development
+
+🚀 Building practical projects to strengthen my technical skills
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+## 📌 Projects
+
+More projects coming soon.
+
+## 📚 Currently Learning
+
+- Python programming
+- SQL
+- Data analysis
+- Software development
+
+## 📫 Connect with me
+
+- LinkedIn: [Kasshish Jain](www.linkedin.com/in/kasshish-jain)
