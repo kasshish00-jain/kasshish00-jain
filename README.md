@@ -2,7 +2,7 @@
 
 🎓 Final-year Computer Science Engineering student
 
-💻 Interested in software development, data, and technology
+💻 Interested in data, software development and technology
 
 🌱 Currently learning Python, SQL, and software development
 
